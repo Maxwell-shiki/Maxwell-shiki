@@ -25,12 +25,13 @@
 
 🏄 More to be developed... 
 
-
+<!--
 <div align="center">
     <span>  </span>
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Maxwell-shiki" /><span> </span> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxwell-shiki&layout=compact" />
     <span>  </span>
 </div>
+-->
 
 <!-- https://github.com/marketplace/actions/waka-readme -->
 
