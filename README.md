@@ -4,11 +4,11 @@
 
 ## Hi there 👋
 
-:black_nib: Here is Chengzhen Xie (谢承臻), a saxophonist nourished by vitality and stories, a code-writing Fudan MicroE hound.
+<!-- :black_nib: Here is Chengzhen Xie (谢承臻), a saxophonist nourished by vitality and stories, a code-writing Fudan MicroE hound.
 
 ✨ As my name *Chengzhen* is the homophomic of *realization* in Chinese, my origin lies in the pursuit of *Marble Phantasm*, i.e. turning fantasies into reality. 
 
-<!-- 🎓 Initially, I chased this through IC design in undergrad, only to pivot to CS upon realizing its limits. Now at NYU Brooklyn, I'm seeking full-stack engineering internships to bridge code and creation.
+🎓 Initially, I chased this through IC design in undergrad, only to pivot to CS upon realizing its limits. Now at NYU Brooklyn, I'm seeking full-stack engineering internships to bridge code and creation.
 
 ##### * As *"Artificial伪"* means *"human人 - act为"*, it must be Tech Otaku who saves the world. -->
 
